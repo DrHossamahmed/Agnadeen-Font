@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehmarbuta-arab" format="2">
+  <advance width="1072"/>
+  <unicode hex="0629"/>
+  <anchor x="541" y="2" name="bottom-arab"/>
+  <anchor x="589" y="1325" name="top-arab"/>
+  <outline>
+  <component base="heh-arab"/>
+  <component base="symboltwodotsabovemod-arab" xOffset="297" yOffset="898"/>
+  </outline>
+</glyph>

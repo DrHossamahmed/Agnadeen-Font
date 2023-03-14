@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sheen-arab.init" format="2">
+  <advance width="1737"/>
+  <unicode hex="FEB7"/>
+  <anchor x="925" y="0" name="bottom-arab"/>
+  <anchor x="989" y="1505" name="top-arab"/>
+  <outline>
+  <component base="seen-arab.init"/>
+  <component base="symbolthreedotsabovemod-arab" xOffset="658" yOffset="798"/>
+  </outline>
+</glyph>

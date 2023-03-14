@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="symboldotbelowmod-arab" format="2">
+  <advance width="50"/>
+  <unicode hex="FBB3"/>
+  <anchor x="170" y="617" name="bottom-arab"/>
+  <anchor x="170" y="208" name="bottom-arab"/>
+  <outline>
+    <contour>
+      <point x="114" y="183"/>
+      <point x="34" y="262"/>
+      <point x="34" y="317" type="qcurve"/>
+      <point x="34" y="373"/>
+      <point x="114" y="452"/>
+      <point x="170" y="452" type="qcurve"/>
+      <point x="227" y="452"/>
+      <point x="307" y="373"/>
+      <point x="307" y="317" type="qcurve"/>
+      <point x="307" y="261"/>
+      <point x="226" y="183"/>
+      <point x="170" y="183" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

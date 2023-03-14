@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="symbolthreedotsabovemod-arab" format="2">
+  <advance width="50"/>
+  <unicode hex="FBB6"/>
+  <anchor x="333" y="18" name="top-arab"/>
+  <anchor x="332" y="695" name="top-arab"/>
+  <outline>
+    <contour>
+      <point x="276" y="547"/>
+      <point x="196" y="626"/>
+      <point x="196" y="681" type="qcurve"/>
+      <point x="196" y="737"/>
+      <point x="276" y="816"/>
+      <point x="332" y="816" type="qcurve"/>
+      <point x="389" y="816"/>
+      <point x="469" y="737"/>
+      <point x="469" y="681" type="qcurve"/>
+      <point x="469" y="625"/>
+      <point x="388" y="547"/>
+      <point x="332" y="547" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="102" y="283"/>
+      <point x="22" y="362"/>
+      <point x="22" y="417" type="qcurve"/>
+      <point x="22" y="473"/>
+      <point x="102" y="552"/>
+      <point x="158" y="552" type="qcurve"/>
+      <point x="215" y="552"/>
+      <point x="295" y="473"/>
+      <point x="295" y="417" type="qcurve"/>
+      <point x="295" y="361"/>
+      <point x="214" y="283"/>
+      <point x="158" y="283" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="449" y="283"/>
+      <point x="369" y="362"/>
+      <point x="369" y="417" type="qcurve"/>
+      <point x="369" y="473"/>
+      <point x="449" y="552"/>
+      <point x="505" y="552" type="qcurve"/>
+      <point x="562" y="552"/>
+      <point x="642" y="473"/>
+      <point x="642" y="417" type="qcurve"/>
+      <point x="642" y="361"/>
+      <point x="561" y="283"/>
+      <point x="505" y="283" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

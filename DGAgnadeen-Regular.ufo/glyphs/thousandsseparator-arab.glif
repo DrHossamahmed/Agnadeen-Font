@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thousandsseparator-arab" format="2">
+  <advance width="583"/>
+  <unicode hex="066C"/>
+  <outline>
+    <contour>
+      <point x="194" y="247" type="line"/>
+      <point x="432" y="247" type="line"/>
+      <point x="281" y="-312" type="line"/>
+      <point x="87" y="-312" type="line"/>
+    </contour>
+  </outline>
+</glyph>
