@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arabicindicone-arab" format="2">
+  <advance width="533"/>
+  <unicode hex="0661"/>
+  <outline>
+    <contour>
+      <point x="150" y="1264" type="line"/>
+      <point x="382" y="1264" type="line"/>
+      <point x="382" y="-25" type="line"/>
+      <point x="150" y="-25" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arabictatweelmod" format="2">
+  <advance width="579"/>
+  <unicode hex="0640"/>
+  <outline>
+    <contour>
+      <point x="-60" y="-8" type="line"/>
+      <point x="-60" y="162" type="line"/>
+      <point x="-9" y="179" type="line"/>
+      <point x="579" y="179" type="line"/>
+      <point x="630" y="162" type="line"/>
+      <point x="630" y="-8" type="line"/>
+      <point x="579" y="-25" type="line"/>
+      <point x="-9" y="-25" type="line"/>
+    </contour>
+  </outline>
+</glyph>

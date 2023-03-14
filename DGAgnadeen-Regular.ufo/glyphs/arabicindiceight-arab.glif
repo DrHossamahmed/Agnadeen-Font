@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arabicindiceight-arab" format="2">
+  <advance width="1185"/>
+  <unicode hex="0668"/>
+  <outline>
+    <contour>
+      <point x="590" y="961" type="line"/>
+      <point x="309" y="-25" type="line"/>
+      <point x="45" y="-25" type="line"/>
+      <point x="464" y="1264" type="line"/>
+      <point x="724" y="1264" type="line"/>
+      <point x="1153" y="-25" type="line"/>
+      <point x="900" y="-25" type="line"/>
+    </contour>
+  </outline>
+</glyph>

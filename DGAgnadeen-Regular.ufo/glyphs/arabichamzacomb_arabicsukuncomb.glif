@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arabichamzacomb_arabicsukuncomb" format="2">
+  <advance width="0"/>
+  <anchor x="299" y="1049" name="top-arab"/>
+  <anchor x="304" y="1955" name="top-arab"/>
+  <outline>
+  <component base="arabichamzacomb"/>
+  <component base="arabicsukuncomb" xOffset="23" yOffset="460"/>
+  </outline>
+</glyph>

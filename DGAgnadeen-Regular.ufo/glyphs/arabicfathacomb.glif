@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arabicfathacomb" format="2">
+  <advance width="0"/>
+  <unicode hex="064E"/>
+  <anchor x="292" y="1049" name="top-arab"/>
+  <anchor x="292" y="1287" name="top-arab"/>
+  <outline>
+    <contour>
+      <point x="48" y="1329" type="line"/>
+      <point x="537" y="1379" type="line"/>
+      <point x="537" y="1270" type="line"/>
+      <point x="48" y="1220" type="line"/>
+    </contour>
+  </outline>
+</glyph>
