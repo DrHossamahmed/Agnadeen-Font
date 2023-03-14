@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noon-arab.medi" format="2">
+  <advance width="774"/>
+  <unicode hex="FEE8"/>
+  <anchor x="364" y="0" name="bottom-arab"/>
+  <anchor x="364" y="1225" name="top-arab"/>
+  <outline>
+  <component base="dotlessbeh-arab.medi"/>
+  <component base="symboldotaccentmod-arab" xOffset="219" yOffset="798"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamalefhamzabelow-arab.isol" format="2">
+  <advance width="1322"/>
+  <unicode hex="FEF9"/>
+  <anchor x="867" y="1443" name="top-arab_ligComponent_0"/>
+  <anchor x="392" y="1198" name="top-arab_ligComponent_1"/>
+  <anchor x="836" y="0" name="bottom-arab_ligComponent_0"/>
+  <anchor x="443" y="-464" name="bottom-arab_ligComponent_1"/>
+  <outline>
+  <component base="lamalef-arab.isol"/>
+  <component base="arabichamzabelowcomb" xOffset="146" yOffset="3"/>
+  </outline>
+</glyph>

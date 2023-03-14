@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="feh-arab.init" format="2">
+  <advance width="1209"/>
+  <unicode hex="FED3"/>
+  <anchor x="627" y="0" name="bottom-arab"/>
+  <anchor x="625" y="1353" name="top-arab"/>
+  <outline>
+  <component base="dotlessfeh-arab.init"/>
+  <component base="symboldotaccentmod-arab" xOffset="480" yOffset="926"/>
+  </outline>
+</glyph>

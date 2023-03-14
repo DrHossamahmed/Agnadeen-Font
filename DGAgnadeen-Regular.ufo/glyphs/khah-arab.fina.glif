@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khah-arab.fina" format="2">
+  <advance width="1444"/>
+  <unicode hex="FEA6"/>
+  <anchor x="880" y="-650" name="bottom-arab"/>
+  <anchor x="516" y="1458" name="top-arab"/>
+  <outline>
+  <component base="hah-arab.fina"/>
+  <component base="symboldotaccentmod-arab" xOffset="371" yOffset="1031"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lam_alefwasla-arab.fina" format="2">
+  <advance width="1534"/>
+  <anchor x="990" y="1443" name="top-arab_ligComponent_0"/>
+  <anchor x="511" y="1198" name="top-arab_ligComponent_1"/>
+  <anchor x="970" y="0" name="bottom-arab_ligComponent_0"/>
+  <anchor x="585" y="0" name="bottom-arab_ligComponent_1"/>
+  <outline>
+  <component base="lamalef-arab.fina" xOffset="115"/>
+  <component base="waslaar" xOffset="89" yOffset="149"/>
+  </outline>
+</glyph>

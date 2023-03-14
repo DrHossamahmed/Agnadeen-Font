@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hah-arab.init" format="2">
+  <advance width="1418"/>
+  <unicode hex="FEA3"/>
+  <anchor x="388" y="0" name="bottom-arab"/>
+  <anchor x="526" y="1049" name="top-arab"/>
+  <outline>
+    <contour>
+      <point x="-30" y="-25" type="line"/>
+      <point x="-22" y="179" type="line"/>
+      <point x="989" y="179" type="line"/>
+      <point x="989" y="147" type="line"/>
+      <point x="967" y="168"/>
+      <point x="913" y="261"/>
+      <point x="876" y="349" type="qcurve"/>
+      <point x="812" y="498" type="line"/>
+      <point x="763" y="615"/>
+      <point x="677" y="729"/>
+      <point x="579" y="770"/>
+      <point x="500" y="770" type="qcurve"/>
+      <point x="231" y="770" type="line"/>
+      <point x="231" y="974" type="line"/>
+      <point x="500" y="974" type="line"/>
+      <point x="644" y="974"/>
+      <point x="827" y="911"/>
+      <point x="962" y="748"/>
+      <point x="1026" y="591" type="qcurve"/>
+      <point x="1088" y="439" type="line"/>
+      <point x="1129" y="339"/>
+      <point x="1201" y="230"/>
+      <point x="1263" y="189"/>
+      <point x="1368" y="189" type="qcurve"/>
+      <point x="1268" y="-25" type="line"/>
+      <point x="1204" y="-25" type="line"/>
+    </contour>
+  </outline>
+</glyph>
