@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="theh-arab" format="2">
+  <advance width="1905"/>
+  <unicode hex="062B"/>
+  <anchor x="880" y="0" name="bottom-arab"/>
+  <anchor x="900" y="1374" name="top-arab"/>
+  <outline>
+  <component base="dotlessbeh-arab"/>
+  <component base="symbolthreedotsabovemod-arab" xOffset="578" yOffset="640"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeh-arab.medi" format="2">
+  <advance width="732"/>
+  <unicode hex="FEF4"/>
+  <anchor x="365" y="-410" name="bottom-arab"/>
+  <anchor x="364" y="816" name="top-arab"/>
+  <outline>
+  <component base="dotlessbeh-arab.medi"/>
+  <component base="symboltwodotsbelowmod-arab" xOffset="33" yOffset="-618"/>
+  </outline>
+</glyph>

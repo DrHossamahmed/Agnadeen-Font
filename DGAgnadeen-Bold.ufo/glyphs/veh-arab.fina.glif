@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="veh-arab.fina" format="2">
+  <advance width="2152"/>
+  <unicode hex="FB6B"/>
+  <anchor x="1046" y="0" name="bottom-arab"/>
+  <anchor x="1557" y="1621" name="top-arab"/>
+  <outline>
+  <component base="dotlessfeh-arab.fina"/>
+  <component base="symbolthreedotsabovemod-arab" xOffset="1250" yOffset="826"/>
+  </outline>
+</glyph>

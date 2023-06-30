@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seen-arab.init" format="2">
+  <advance width="1728"/>
+  <unicode hex="FEB3"/>
+  <anchor x="909" y="0" name="bottom-arab"/>
+  <anchor x="949" y="930" name="top-arab"/>
+  <outline>
+    <contour>
+      <point x="1238" y="-40" type="qcurve"/>
+      <point x="1102" y="-40"/>
+      <point x="1015" y="20" type="qcurve"/>
+      <point x="943" y="68"/>
+      <point x="914" y="118" type="qcurve"/>
+      <point x="884" y="63"/>
+      <point x="715" y="-40"/>
+      <point x="599" y="-40" type="qcurve"/>
+      <point x="-27" y="-40" type="line"/>
+      <point x="-91" y="-19" type="line"/>
+      <point x="-91" y="173" type="line"/>
+      <point x="-27" y="194" type="line"/>
+      <point x="183" y="194" type="line"/>
+      <point x="183" y="956" type="line"/>
+      <point x="448" y="956" type="line"/>
+      <point x="448" y="194" type="line"/>
+      <point x="600" y="194" type="line"/>
+      <point x="701" y="194"/>
+      <point x="756" y="252" type="qcurve"/>
+      <point x="813" y="307"/>
+      <point x="813" y="416" type="qcurve"/>
+      <point x="813" y="956" type="line"/>
+      <point x="1079" y="956" type="line"/>
+      <point x="1079" y="416" type="line"/>
+      <point x="1079" y="296"/>
+      <point x="1154" y="194"/>
+      <point x="1231" y="194" type="qcurve"/>
+      <point x="1304" y="194"/>
+      <point x="1399" y="296"/>
+      <point x="1399" y="416" type="qcurve"/>
+      <point x="1399" y="956" type="line"/>
+      <point x="1665" y="956" type="line"/>
+      <point x="1665" y="414" type="line"/>
+      <point x="1648" y="198"/>
+      <point x="1431" y="-40"/>
+    </contour>
+  </outline>
+</glyph>
