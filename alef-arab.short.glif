@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alef-arab.short" format="2">
+  <advance width="579"/>
+  <anchor x="290" y="0" name="bottom-arab"/>
+  <anchor x="290" y="1266" name="top-arab"/>
+  <outline>
+    <contour>
+      <point x="157" y="1338" type="line"/>
+      <point x="422" y="1338" type="line"/>
+      <point x="422" y="940" type="line"/>
+      <point x="422" y="-40" type="line"/>
+      <point x="157" y="-40" type="line"/>
+      <point x="157" y="940" type="line"/>
+    </contour>
+  </outline>
+</glyph>

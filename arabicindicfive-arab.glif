@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arabicindicfive-arab" format="2">
+  <advance width="1185"/>
+  <unicode hex="0665"/>
+  <outline>
+    <contour>
+      <point x="435" y="64"/>
+      <point x="205" y="193"/>
+      <point x="84" y="436"/>
+      <point x="84" y="601" type="qcurve"/>
+      <point x="84" y="777"/>
+      <point x="204" y="1056"/>
+      <point x="435" y="1216"/>
+      <point x="593" y="1216" type="qcurve"/>
+      <point x="751" y="1216"/>
+      <point x="981" y="1056"/>
+      <point x="1101" y="777"/>
+      <point x="1101" y="601" type="qcurve"/>
+      <point x="1101" y="436"/>
+      <point x="980" y="193"/>
+      <point x="751" y="64"/>
+      <point x="593" y="64" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="709" y="285"/>
+      <point x="838" y="447"/>
+      <point x="838" y="601" type="qcurve"/>
+      <point x="838" y="720"/>
+      <point x="776" y="901"/>
+      <point x="666" y="996"/>
+      <point x="593" y="996" type="qcurve"/>
+      <point x="520" y="996"/>
+      <point x="410" y="900"/>
+      <point x="347" y="719"/>
+      <point x="347" y="601" type="qcurve"/>
+      <point x="347" y="447"/>
+      <point x="477" y="285"/>
+      <point x="593" y="285" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

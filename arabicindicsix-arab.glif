@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arabicindicsix-arab" format="2">
+  <advance width="1014"/>
+  <unicode hex="0666"/>
+  <outline>
+    <contour>
+      <point x="641" y="-40" type="line"/>
+      <point x="594" y="1057" type="line"/>
+      <point x="26" y="1057" type="line"/>
+      <point x="26" y="1301" type="line"/>
+      <point x="841" y="1301" type="line"/>
+      <point x="894" y="-40" type="line"/>
+    </contour>
+  </outline>
+</glyph>
